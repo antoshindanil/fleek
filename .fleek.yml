@@ -24,6 +24,7 @@ packages:
     - sad
     - tmux
     - neofetch
+    - nodejs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
