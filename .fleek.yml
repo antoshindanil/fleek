@@ -19,6 +19,10 @@ packages:
     - htop
     - lazygit
     - lf
+    - fzf
+    - fd
+    - sad
+    - tmux
 paths:
     - $HOME/bin
     - $HOME/.local/bin

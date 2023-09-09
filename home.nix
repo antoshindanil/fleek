@@ -24,6 +24,10 @@
     pkgs.htop
     pkgs.lazygit
     pkgs.lf
+    pkgs.fzf
+    pkgs.fd
+    pkgs.sad
+    pkgs.tmux
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
