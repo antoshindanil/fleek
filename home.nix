@@ -28,6 +28,7 @@
     pkgs.fd
     pkgs.sad
     pkgs.tmux
+    pkgs.neofetch
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

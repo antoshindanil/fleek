@@ -23,6 +23,7 @@ packages:
     - fd
     - sad
     - tmux
+    - neofetch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
