@@ -22,6 +22,8 @@
     # user selected packages
     pkgs.helix
     pkgs.htop
+    pkgs.lazygit
+    pkgs.lf
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

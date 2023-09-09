@@ -17,6 +17,8 @@ overlays: {}
 packages:
     - helix
     - htop
+    - lazygit
+    - lf
 paths:
     - $HOME/bin
     - $HOME/.local/bin
