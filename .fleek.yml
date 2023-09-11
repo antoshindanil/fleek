@@ -26,6 +26,7 @@ packages:
     - neofetch
     - nodejs
     - go
+    - ruby
 paths:
     - $HOME/bin
     - $HOME/.local/bin
